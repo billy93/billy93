@@ -3,7 +3,7 @@ Hi there 👋
 </h2>
 
 <h3 align="center">
-I'm a Front-end Web Developer 💻, and Musician 🎹🎻!
+I'm a Fullstack Web Developer 💻, and Musician 🎹🎻!
 </h3> 
 
 ### 🤝 Connect with me:
