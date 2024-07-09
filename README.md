@@ -16,6 +16,7 @@ I'm a Frontend Web Developer 💻, and Musician 🎹🎻!
 
 - Nextjs 14 Projects Course from https://www.jsmastery.pro
 - Amanyaman Sales Travel Insurance https://sales.amanyaman.com
+- Amanyaman Claim Travel Insurance https://claim.amanyaman.com
 
 ## 💼 Technical Skills
 
