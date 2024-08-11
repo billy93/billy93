@@ -47,3 +47,10 @@ I'm a Frontend Web Developer 💻, and Musician 🎹🎻!
 ![shadcn](https://img.shields.io/badge/shadcn-FE7D37?style=for-the-badge&logo=shadcn&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br/>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-2A4E89?style=for-the-badge&logo=clerk&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-0B4B70?style=for-the-badge&logo=convex&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+
